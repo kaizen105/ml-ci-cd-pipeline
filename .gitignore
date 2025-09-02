@@ -12,10 +12,6 @@ __pycache__/
 .env
 *.env
 
-# Model files
-model/*.pkl
-*.joblib
-
 # Dataset files
 datasets/*.csv
 
