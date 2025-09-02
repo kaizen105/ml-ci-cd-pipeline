@@ -19,10 +19,6 @@ datasets/*.csv
 *.log
 *.out
 
-# OS-specific
-.DS_Store
-Thumbs.db
-
 # Virtual environments
 venv/
 .env/
